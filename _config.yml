@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://fansekey.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: 趴着的青春 
+subtitle: 花样年华 
+author: Shouding Xiang 
 simple_search: http://google.com/search
 description:
 
@@ -89,7 +89,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: fansekey
 disqus_show_comment_count: false
 
 # Google Analytics
