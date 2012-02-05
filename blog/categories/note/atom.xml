@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[趴着的青春]]></title>
-  <link href="http://fansekey.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: note | 趴着的青春]]></title>
+  <link href="http://fansekey.github.com/blog/categories/note/atom.xml" rel="self"/>
   <link href="http://fansekey.github.com/"/>
   <updated>2012-02-05T14:36:57+08:00</updated>
   <id>http://fansekey.github.com/</id>
